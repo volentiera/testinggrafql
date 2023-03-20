@@ -18,7 +18,7 @@ mutation create{
   }
 }
 mutation delete{
-  delete(id:"<>")
+  delete(id:"<id>")
 }
 
 mutation update{
